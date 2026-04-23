@@ -1,0 +1,5 @@
+DNA = ("ACGTOV")
+if "COV" in DNA:
+    print("Veikur!")
+else:
+    print("Ekki veikur!")
